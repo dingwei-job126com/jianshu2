@@ -1,0 +1,1 @@
+export const CHANGE_SCROLL = 'backtop/CHANGE_SCROLL'; 

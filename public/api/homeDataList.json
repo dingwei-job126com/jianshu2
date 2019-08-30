@@ -1,0 +1,72 @@
+{
+	"success":"true",
+	"data":{
+		"articleList":[{
+			"id":1,
+			"title":"一文详解Spark基本架构原理",
+			"listCon":"Apache Spark是一个围绕速度、易用性和复杂分析构建的大数据处理框架，最初在2009年由加州大学伯克利分校的AMPLab开发，并于201...",
+			"imgUrl":"//upload-images.jianshu.io/upload_images/13192523-54ceb4f1eef6b338.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"	
+		},{
+			"id":2,
+			"title":"五个手机黑科技APP，每个都让人爱不释手",
+			"listCon":"大家每天都在使用各种各样的手机APP，常见的就不多说了，今天流光给大家分享五个小众但是非常强大的黑科技APP，可能你一个都没听过，但我保证每",
+			"imgUrl":"//upload-images.jianshu.io/upload_images/2915544-45b16dd8ea699de2.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		},{
+			"id":3,
+			"title":"柔的哲学，水的境界。",
+			"listCon":"《道德经》智慧：柔的哲学，水的境界！ 《道德经》推崇柔弱的智慧，崇尚守柔贵雌，其他如功成身退、祸福相倚、上善若水等思想不仅对历史产生重大影响，也...",
+			"imgUrl":"//upload-images.jianshu.io/upload_images/3560835-780a2d4ec89d01b8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		},{
+			"id":4,
+			"title":"又有一件坚持一年的事情",
+			"listCon":"我是一个特别喜欢坚持的人，如果哪天我不坚持了，肯定是因为我不喜欢了，可如果我很喜欢，我一定会坚持下去，不管多难。 明天就是我坚持练...",
+			"imgUrl":"//upload-images.jianshu.io/upload_images/8944918-07e5a07db66628d1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		},{
+			"id":5,
+			"title":"这６个小户型设计方案图，成功改造一居室变二居室",
+			"listCon":"小家，越住越大，是每个人对住宅隐隐的期待。 就像樱桃小丸子和姐姐共挤一间房，也曾在吵架时碎碎念家里不是大房子！ 让家容纳更多的家人，幸福的笑声也...",
+			"imgUrl":"//upload-images.jianshu.io/upload_images/14892748-1dbafb7594620cfe?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}],
+		"writerList":[{
+			"id":1,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"老沈1",
+			"numbars":"写了50.5k字 · 305喜欢"
+		},{
+			"id":2,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"梅拾璎",
+			"numbars":"写了261.6k字 · 22.7k喜欢"
+		},{
+			"id":3,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"胡七筒",
+			"numbars":"写了300.8k字 · 10.6k喜欢"
+		},{
+			"id":4,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/2631077/dc99c361412c?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"木清琳",
+			"numbars":"写了277.8k字 · 2.8k喜欢"
+		},{
+			"id":5,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"无限猴子",
+			"numbars":"写了181k字 · 727喜欢"
+		},{
+			"id":6,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/6305091/dc5b863a-26fc-47df-af32-18177f6cc9ff.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"只有一半影子的人",
+			"numbars":"写了253.4k字 · 933喜欢"
+		},{
+			"id":7,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/11557689/ed2ea7f3-9d7d-41fc-a05a-daebb8097b0c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"须僧",
+			"numbars":"写了372.5k字 · 8k喜欢"
+		},{
+			"id":8,
+			"imgUrl":"http://upload.jianshu.io/users/upload_avatars/4802366/4f86b75d-b61b-4126-8be4-87a151c9cd28.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"outhor":"汪波_偶遇科学",
+			"numbars":"写了295.1k字 · 1.8k喜欢"
+		}]
+	}
+}
